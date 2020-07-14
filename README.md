@@ -1,4 +1,4 @@
-### EZ PZ LMN SQZ (｡◕‿‿◕｡) 👋
+### EZ PZ LMN SQZ (｡◕‿‿◕｡) 🌱
 
 <!--
 **heregoesnoth/heregoesnoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
