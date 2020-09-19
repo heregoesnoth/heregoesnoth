@@ -7,8 +7,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heregoesnoth&layout=compact" alt="heregoesnoth" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heregoesnoth&show_icons=true" alt="heregoesnoth" /></p>
-
 <p align="center">
 <a href="https://twitter.com/heregoesnoth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="heregoesnoth" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/lucasgms" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasgms" height="30" width="30" /></a>
