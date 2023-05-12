@@ -1,4 +1,4 @@
-<h1> 🦀 Lucas Gomes (｡◕‿‿◕｡)</h1> 
+<h1> 🦀 Lucas Gomes </h1> 
 
 👨‍💻 [mangue.digital](https://www.mangue.digital)  
 📫 lucas@mangue.digital  
