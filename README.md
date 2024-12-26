@@ -1,9 +1,5 @@
 <h1> 🦀 Lucas Gomes </h1> 
 
-👨‍💻 [mangue.digital](https://www.mangue.digital)  
-📫 lucas@mangue.digital  
-🐦 [heregoesnoth](https://www.twitter.com/heregoesnoth)
-
 <h1>🖥️ Tech & Skills 🚀</h1> 
 
 <p align="left">
